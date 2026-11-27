@@ -163,3 +163,4 @@ To add the symbol,you can use the insert symbol to find the character and copy i
 ~~~~[cite: 1, 2, 3, 4]
 
 Owner: Ory Tasa 682115048
+Bros : Punyawee Sangakew 682115026
